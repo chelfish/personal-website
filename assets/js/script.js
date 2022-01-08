@@ -37,7 +37,7 @@ function startIntroTyping() {
 function typerStartTyping(typer) {
   typer.reset();
 
-  let text = ['javascript', 'golang', 'java', 'c#', 'c++'];
+  let text = ['javascript', 'HTML', 'java', 'python', 'c++'];
 
   text.forEach(function (language, index) {
     typer.move(null);
@@ -62,7 +62,7 @@ function startMainTyping() {
 }
 
 function switchScreen() {
-  document.title = 'amplitudes.me | home';
+  document.title = 'chelvis.github.io | home';
 
   $('.intro').fadeOut(1000, function () {
     $('.bg-image').fadeIn(1000);
