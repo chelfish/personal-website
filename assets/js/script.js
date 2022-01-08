@@ -7,13 +7,13 @@ function openSocial(type) {
 
   switch (type) {
     case 'discord':
-      url = '';
+      url = 'https://discord.com/users/602550356542488589';
       break;
     case 'github':
-      url = '';
+      url = 'https://github.com/chelfish';
       break;
     case 'twitter':
-      url = '';
+      url = 'https://twitter.com/Chelvis22720411';
       break;
   }
 
