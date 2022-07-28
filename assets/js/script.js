@@ -7,7 +7,7 @@ function openSocial(type) {
 
   switch (type) {
     case 'discord':
-      url = 'https://discord.com/users/602550356542488589';
+      url = 'https://discord.com/users/957369180313747497';
       break;
     case 'github':
       url = 'https://github.com/chelfish';
